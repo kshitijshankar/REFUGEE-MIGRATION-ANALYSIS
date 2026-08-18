@@ -602,11 +602,22 @@ The project is therefore well suited as a portfolio example for R Programming, D
 
 👨‍💻 Skills Demonstrated
 
-R Programming · igraph · Network Analysis · Graph Theory · Community Detection · Data Import · Data Visualization · Algorithm Comparison · Graph Analytics
+·R Programming 
+· igraph 
+· Network Analysis 
+· Graph Theory 
+· Community Detection 
+· Data Import 
+· Data Visualisation 
+· Algorithm Comparison
+· Graph Analytics
 
 📜 Project Status
 
 Status: Academic / Analytical Project
+
 Language: R
+
 Primary Package: igraph
+
 Dataset: resettlement.csv
