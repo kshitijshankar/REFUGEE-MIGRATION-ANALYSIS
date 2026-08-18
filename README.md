@@ -1,4 +1,4 @@
-📈 Refugee Resettlement Network Analysis Using R
+# 📈 **Refugee Resettlement Network Analysis Using R** 📊
 
 📌 Project Overview
 
